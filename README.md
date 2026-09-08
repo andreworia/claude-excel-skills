@@ -52,22 +52,11 @@
 <br />
 
 <!-- BLOCK 3: The two product demos + features -->
-<h3 align="center">Create stunning slides directly in PowerPoint</h3>
+<h3 align="center">Create stunning slides in PowerPoint — and CEO-ready documents in Claude and ChatGPT</h3>
 
 <p align="center">
-  <a href="https://www.oria.one/install?utm_source=github&utm_medium=readme&utm_campaign=claude-excel-skills">
-    <img src="https://raw.githubusercontent.com/andreworia/claude-excel-skills/main/.github/assets/oria-powerpoint-demo.gif" width="100%" alt="Oria generating a professional slide inside PowerPoint from a text prompt">
-  </a>
-</p>
-
-<br />
-
-<h3 align="center">Build CEO-ready documents in Claude and ChatGPT</h3>
-
-<p align="center">
-  <a href="https://www.oria.one/?utm_source=github&utm_medium=readme&utm_campaign=claude-excel-skills">
-    <img src="https://raw.githubusercontent.com/andreworia/claude-excel-skills/main/.github/assets/oria-claude-demo.gif" width="100%" alt="Oria building a CEO-ready document inside Claude from a text prompt">
-  </a>
+  <a href="https://www.oria.one/install?utm_source=github&utm_medium=readme&utm_campaign=claude-excel-skills"><img src="https://raw.githubusercontent.com/andreworia/claude-excel-skills/main/.github/assets/oria-powerpoint-demo.gif" width="53%" alt="Oria generating a professional slide inside PowerPoint from a text prompt"></a>
+  <a href="https://www.oria.one/?utm_source=github&utm_medium=readme&utm_campaign=claude-excel-skills"><img src="https://raw.githubusercontent.com/andreworia/claude-excel-skills/main/.github/assets/oria-claude-demo.gif" width="45%" alt="Oria building a CEO-ready document inside Claude from a text prompt"></a>
 </p>
 
 <br />
