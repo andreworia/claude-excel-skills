@@ -21,7 +21,7 @@
 
 <h1 align="center">Built by Oria</h1>
 
-<h3 align="center">The AI for complex, professional slides that do not feel like AI</h3>
+<h3 align="center">Build Professional Slides That Do Not Feel Like AI</h3>
 
 <p align="center">
   Consulting-grade complex slides that follow the exact look and feel of your company.<br />
@@ -32,27 +32,22 @@
 <p align="center">
   <a href="https://www.oria.one/?utm_source=github&utm_medium=readme&utm_campaign=claude-excel-skills"><img src="https://img.shields.io/badge/Try%20Oria-Free%20trial-1A1A1A?style=for-the-badge&labelColor=2563EB&color=1E40AF" alt="Try Oria free"></a>
   <a href="https://www.oria.one/install?utm_source=github&utm_medium=readme&utm_campaign=claude-excel-skills"><img src="https://img.shields.io/badge/Install-PowerPoint%20add--in-1A1A1A?style=for-the-badge&labelColor=1A1A1A&color=1A1A1A" alt="Install the PowerPoint add-in"></a>
-  <a href="https://www.oria.one/pricing?utm_source=github&utm_medium=readme&utm_campaign=claude-excel-skills"><img src="https://img.shields.io/badge/Pricing-From%20%2419%2Fmo-1A1A1A?style=for-the-badge&labelColor=1A1A1A&color=1A1A1A" alt="Pricing"></a>
+  <a href="https://account.oria.one/get-started?flow=slide-new&utm_source=github&utm_medium=readme&utm_campaign=claude-excel-skills"><img src="https://img.shields.io/badge/Install-Claude%20%2F%20ChatGPT-1A1A1A?style=for-the-badge&labelColor=1A1A1A&color=1A1A1A" alt="Install for Claude and ChatGPT"></a>
 </p>
 
 <p align="center">
   <a href="https://www.oria.one/?utm_source=github&utm_medium=readme&utm_campaign=claude-excel-skills"><strong>oria.one »</strong></a>
 </p>
 
-<p align="center">
-  <a href="https://www.oria.one/resources?utm_source=github&utm_medium=readme&utm_campaign=claude-excel-skills">Free resources</a>
-  ·
-  <a href="https://www.oria.one/resources/skills?utm_source=github&utm_medium=readme&utm_campaign=claude-excel-skills">Claude skills library</a>
-  ·
-  <a href="https://www.oria.one/academy?utm_source=github&utm_medium=readme&utm_campaign=claude-excel-skills">Academy</a>
-  ·
-  <a href="https://www.oria.one/about?utm_source=github&utm_medium=readme&utm_campaign=claude-excel-skills">About</a>
-</p>
-
 <br />
 
 <!-- BLOCK 3: The two product demos + features -->
 <h3 align="center">Create stunning slides in PowerPoint — and CEO-ready documents in Claude and ChatGPT</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreworia/claude-excel-skills/main/.github/assets/logo-left.png" width="53%" alt="Works in PowerPoint">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreworia/claude-excel-skills/main/.github/assets/logo-right-dark.png"><img src="https://raw.githubusercontent.com/andreworia/claude-excel-skills/main/.github/assets/logo-right-light.png" width="45%" alt="Works in Claude and ChatGPT"></picture>
+</p>
 
 <p align="center">
   <a href="https://www.oria.one/install?utm_source=github&utm_medium=readme&utm_campaign=claude-excel-skills"><img src="https://raw.githubusercontent.com/andreworia/claude-excel-skills/main/.github/assets/oria-powerpoint-demo.gif" width="53%" alt="Oria generating a professional slide inside PowerPoint from a text prompt"></a>
